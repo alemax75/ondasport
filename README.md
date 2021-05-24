@@ -1,6 +1,6 @@
 # cordoba_sport
 
-A new Flutter project.
+
 
 ## Getting Started
 
